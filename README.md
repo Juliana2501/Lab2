@@ -243,7 +243,7 @@ public class Main2 {
             if (arr[i] == max) {
                 cnt++;
                 if (cnt == k) {
-                    res = (int) (i + 1);
+                    res = (i + 1);
                 }
             }
         }
